@@ -1,0 +1,10 @@
+om_octave >> OpenModelica interface packagen
+
+Functions:
+ omcompile       - compiles OpenModelica models
+ omparameter     - changes startup parameters for openModelica simulation
+ omrun           - runs previously compiled OpenModelica model
+ omimport        - returns simulation results to workspace
+ omcleanup       - internal function for cleaning temporary build files
+
+

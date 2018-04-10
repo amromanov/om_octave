@@ -1,0 +1,12 @@
+Name: om_octave
+Version: 1.0.0
+Date: 2018-10-04
+Author: A.M. Romanov <AlexRomashka@yandex.ru>, Christian Schaad <ingenieurbuero@christian-schaad.de>
+Maintainer: A.M. Romanov <AlexRomashka@yandex.ru>
+Title: OpenModelica interface package
+Description: Package provides the interface to Open Modelica.
+SystemRequirements: OpenModelica (>=1.12.0) 
+Depends: octave (>= 4.0.0)
+Autoload: no
+License: New BSD License
+Url: https://github.com/amromanov/om_octave
